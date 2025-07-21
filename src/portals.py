@@ -3,7 +3,7 @@ import requests
 from datetime import datetime
 
 from pydantic import BaseModel, TypeAdapter, HttpUrl
-from typing import List,  Optional
+from typing import List, Optional, Dict
 
 
 class PortalsTopOrder(BaseModel):
@@ -38,6 +38,7 @@ class PortalsCollectionsResponse(BaseModel):
 
 
 portals_collections_adapter = TypeAdapter(PortalsCollectionsResponse)
+portals_result_adapter = TypeAdapter(Dict[str, PortalsCollection])
 
 
 PORTALS_TMA = os.getenv('TMA')
@@ -66,17 +67,20 @@ def get_portals_collection_top_order(id: str) -> PortalsTopOrder | None:
         return portals_top_order_adapter.validate_python(data[0])
 
 
-def get_portals_data():
+def get_portals_data() -> Dict[str, PortalsCollection]:
     collections = get_portals_collections()
 
+    result = {}
     for collection in collections:
         top_order = get_portals_collection_top_order(collection.id)
         collection.order = top_order
 
-    return collections
+        result[collection.short_name] = collection
+
+    return result
 
 
 if __name__ == '__main__':
     data = get_portals_data()
-    json_data = portals_collections_adapter.dump_json(data).decode('utf-8')
+    json_data = portals_result_adapter.dump_json(data).decode('utf-8')
     print(json_data)

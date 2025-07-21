@@ -1,10 +1,11 @@
 import os
+import json
 import requests
 from urllib.parse import quote
 from datetime import datetime
 
 from pydantic import BaseModel, TypeAdapter
-from typing import Optional, List
+from typing import Optional, List, Dict
 
 
 class MrktTopOrder(BaseModel):
@@ -36,6 +37,7 @@ class MrktCollection(BaseModel):
 
 
 mrkt_collections_adapter = TypeAdapter(List[MrktCollection])
+mrkt_result_adapter = TypeAdapter(Dict[str, MrktCollection])
 
 
 MRKT_TMA = os.getenv('MRKT_TMA')
@@ -79,18 +81,22 @@ def get_mrkt_collection_top_order(name: str, auth_token: str) -> MrktTopOrder | 
         return mrkt_top_order_adapter.validate_python(data[0])
 
 
-def get_mrkt_data() -> List[MrktCollection]:
+def get_mrkt_data() -> Dict[str, MrktCollection]:
     auth_token = get_mrkt_token()
     collections = get_mrkt_collections(auth_token)
 
+    result = {}
     for collection in collections:
         top_order = get_mrkt_collection_top_order(collection.name, auth_token)
         collection.order = top_order
 
-    return collections
+        short_name = collection.name.replace(' ', '').lower()
+        result[short_name] = collection
+
+    return result
 
 
 if __name__ == '__main__':
     data = get_mrkt_data()
-    json_data = mrkt_collections_adapter.dump_json(data).decode('utf-8')
+    json_data = mrkt_result_adapter.dump_json(data).decode('utf-8')
     print(json_data)
