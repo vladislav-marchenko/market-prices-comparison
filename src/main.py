@@ -1,4 +1,10 @@
 import json
+import math
+
+
+def floor_to_two_decimals(number: float):
+    return math.floor(number * 100) / 100
+
 
 with open('mrkt_data.json', 'r') as mrkt, \
         open('portals_data.json', 'r') as portals, \
@@ -23,8 +29,8 @@ with open('mrkt_data.json', 'r') as mrkt, \
 
         mrkt_instant_sell_price = mrkt_instant_sell['priceMaxNanoTONs'] / 1000000000
         portals_instant_sell_price = portals_instant_sell['amount']
-        portals_instant_sell_price_without_fee = round(
-            portals_instant_sell_price * 0.95, 2)
+        portals_instant_sell_price_without_fee = floor_to_two_decimals(
+            portals_instant_sell_price * 0.95)
 
         mrkt_instant_sell_created_at = mrkt_instant_sell['createdAt']
         portals_instant_sell_created_at = portals_instant_sell['created_at']
