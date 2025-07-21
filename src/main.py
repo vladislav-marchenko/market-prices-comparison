@@ -23,19 +23,21 @@ with open('mrkt_data.json', 'r') as mrkt, \
 
         mrkt_instant_sell_price = mrkt_instant_sell['priceMaxNanoTONs'] / 1000000000
         portals_instant_sell_price = portals_instant_sell['amount']
+        portals_instant_sell_price_without_fee = round(
+            portals_instant_sell_price * 0.95, 2)
 
         mrkt_instant_sell_created_at = mrkt_instant_sell['createdAt']
         portals_instant_sell_created_at = portals_instant_sell['created_at']
 
         withdraw_fee = deposit_fee = 0.1
 
-        mrkt_to_portals_profit = portals_instant_sell_price * 0.95 -\
+        mrkt_to_portals_profit = portals_instant_sell_price_without_fee -\
             mrkt_floor - withdraw_fee
         portals_to_mrkt_profit = mrkt_instant_sell_price - portals_floor -\
             withdraw_fee - deposit_fee
         tonnel_to_mrkt_profit = mrkt_instant_sell_price - tonnel_floor -\
             deposit_fee
-        tonnel_to_portals_profit = portals_instant_sell_price * 0.95 -\
+        tonnel_to_portals_profit = portals_instant_sell_price_without_fee -\
             tonnel_floor
 
         is_profit = any(profit > 0 for profit in
