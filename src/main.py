@@ -23,7 +23,7 @@ with open('mrkt_data.json', 'r') as mrkt, \
         mrkt_instant_sell_created_at = mrkt_instant_sell['createdAt']
         portals_instant_sell_created_at = portals_instant_sell['created_at']
 
-        fee = 0.1
+        fee = 0.2  # 0.1 TON as a withdrawal fee and 0.1 TON as an instant sell fee
 
         if portals_instant_sell_price - mrkt_floor - fee > 0.1:
             print(f'''
