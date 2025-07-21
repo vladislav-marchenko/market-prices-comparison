@@ -45,15 +45,10 @@ with open('mrkt_data.json', 'r') as mrkt, \
             deposit_fee
         tonnel_to_portals_profit = portals_instant_sell_price_without_fee -\
             tonnel_floor
+        max_profit = max([mrkt_to_portals_profit, portals_to_mrkt_profit,
+                         tonnel_to_mrkt_profit, tonnel_to_portals_profit])
 
-        is_profit = any(profit > 0 for profit in
-                        (mrkt_to_portals_profit,
-                         portals_to_mrkt_profit,
-                         tonnel_to_mrkt_profit,
-                         tonnel_to_portals_profit)
-                        )
-
-        if is_profit:
+        if max_profit > 0:
             print(f'''
                 🏷️ Name: {mrkt_collection['name']}
 
