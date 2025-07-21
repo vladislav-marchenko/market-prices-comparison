@@ -23,9 +23,16 @@ with open('mrkt_data.json', 'r') as mrkt, \
         mrkt_instant_sell_created_at = mrkt_instant_sell['createdAt']
         portals_instant_sell_created_at = portals_instant_sell['created_at']
 
-        fee = 0.2  # 0.1 TON as a withdrawal fee and 0.1 TON as an instant sell fee
+        withdraw_fee = 0.1
 
-        if portals_instant_sell_price - mrkt_floor - fee > 0.1:
+        is_mrkt_to_portals_profitable = portals_instant_sell_price * 0.95 -\
+            mrkt_floor - withdraw_fee > 0.1
+        is_portals_to_mrkt_profitable = mrkt_instant_sell_price * 0.95 -\
+            portals_floor - withdraw_fee > 0.1
+
+        if is_mrkt_to_portals_profitable or is_portals_to_mrkt_profitable:
+            # if abs(portals_instant_sell_price - mrkt_instant_sell_price) -\
+            #        withdraw_fee - instant_sell_fee > 0.1:
             print(f'''
             🏷️ Name: {mrkt_collection['name']}
 
