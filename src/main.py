@@ -27,36 +27,46 @@ with open('mrkt_data.json', 'r') as mrkt, \
         mrkt_instant_sell_created_at = mrkt_instant_sell['createdAt']
         portals_instant_sell_created_at = portals_instant_sell['created_at']
 
-        withdraw_fee = 0.1
+        withdraw_fee = deposit_fee = 0.1
 
-        is_mrkt_to_portals_profitable = portals_instant_sell_price * 0.95 -\
-            mrkt_floor - withdraw_fee > 0.1
-        is_portals_to_mrkt_profitable = mrkt_instant_sell_price * 0.95 -\
-            portals_floor - withdraw_fee > 0.1
-        is_tonnel_to_mrkt_profitable = mrkt_instant_sell_price * 0.95 -\
-            tonnel_floor > 0.1
-        is_tonnel_to_portals_profitable = portals_instant_sell_price * 0.95 -\
-            tonnel_floor > 0.1
+        mrkt_to_portals_profit = portals_instant_sell_price * 0.95 -\
+            mrkt_floor - withdraw_fee
+        portals_to_mrkt_profit = mrkt_instant_sell_price - portals_floor -\
+            withdraw_fee - deposit_fee
+        tonnel_to_mrkt_profit = mrkt_instant_sell_price - tonnel_floor -\
+            deposit_fee
+        tonnel_to_portals_profit = portals_instant_sell_price * 0.95 -\
+            tonnel_floor
 
-        if any([is_mrkt_to_portals_profitable,
-               is_portals_to_mrkt_profitable,
-               is_tonnel_to_mrkt_profitable,
-               is_tonnel_to_portals_profitable]):
+        is_profit = any(profit > 0 for profit in
+                        (mrkt_to_portals_profit,
+                         portals_to_mrkt_profit,
+                         tonnel_to_mrkt_profit,
+                         tonnel_to_portals_profit)
+                        )
+
+        if is_profit:
             print(f'''
-            🏷️ Name: {mrkt_collection['name']}
+                🏷️ Name: {mrkt_collection['name']}
 
-            📉Floor Prices:
-                🟡 Mrkt: {mrkt_floor}
-                🟣 Portals: {portals_floor}
-                🟢 Tonnel: {tonnel_floor}
+                📉Floor Prices:
+                    🟡 Mrkt: {mrkt_floor}
+                    🟣 Portals: {portals_floor}
+                    🟢 Tonnel: {tonnel_floor}
 
-            💰Max Instant Sell:
-                🟡 Mrkt: {mrkt_instant_sell_price}
-                🟣 Portals: {portals_instant_sell_price}
+                💰Max Instant Sell:
+                    🟡 Mrkt: {mrkt_instant_sell_price}
+                    🟣 Portals: {portals_instant_sell_price}
 
-            📅Created At:
-                🟡 Mrkt: {mrkt_instant_sell_created_at}
-                🟣 Portals: {portals_instant_sell_created_at}
+                💰Possible profits:
+                    🟡 Mrkt to Portals: {mrkt_to_portals_profit}
+                    🟣 Portals to Mrkt: {portals_to_mrkt_profit}
+                    🟢 Tonnel to Mrkt: {tonnel_to_mrkt_profit}
+                    🟢 Tonnel to Portals: {tonnel_to_portals_profit}
 
-            ---------------------------------------------------------------
-            ''')
+                📅Created At:
+                    🟡 Mrkt: {mrkt_instant_sell_created_at}
+                    🟣 Portals: {portals_instant_sell_created_at}
+
+                ---------------------------------------------------------------
+                ''')
