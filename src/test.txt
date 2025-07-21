@@ -1,0 +1,1258 @@
+
+        🏷️ Name: Astral Shard
+
+        📉Floor Prices:
+            🟡 Mrkt: 74.7
+            🟣 Portals: 78.0
+
+        💰Max Instant Sell:
+            🟡 Mrkt: 72.1
+            🟣 Portals: 72.6
+
+        📅Created At:
+            🟡 Mrkt: 2025-07-20T23:56:35.750979Z
+            🟣 Portals: 2025-07-20T23:50:40.976697Z
+
+        ---------------------------------------------------------------
+        
+
+        🏷️ Name: Berry Box
+
+        📉Floor Prices:
+            🟡 Mrkt: 3.74
+            🟣 Portals: 3.69
+
+        💰Max Instant Sell:
+            🟡 Mrkt: 3.6
+            🟣 Portals: 3.55
+
+        📅Created At:
+            🟡 Mrkt: 2025-07-20T23:01:06.571477Z
+            🟣 Portals: 2025-07-20T21:42:43.070488Z
+
+        ---------------------------------------------------------------
+        
+
+        🏷️ Name: Big Year
+
+        📉Floor Prices:
+            🟡 Mrkt: 1.9
+            🟣 Portals: 1.84
+
+        💰Max Instant Sell:
+            🟡 Mrkt: 1.81
+            🟣 Portals: 1.72
+
+        📅Created At:
+            🟡 Mrkt: 2025-07-20T21:56:55.370159Z
+            🟣 Portals: 2025-07-20T23:38:14.507441Z
+
+        ---------------------------------------------------------------
+        
+
+        🏷️ Name: Bonded Ring
+
+        📉Floor Prices:
+            🟡 Mrkt: 51.9
+            🟣 Portals: 52.0
+
+        💰Max Instant Sell:
+            🟡 Mrkt: 50.2
+            🟣 Portals: 50.0
+
+        📅Created At:
+            🟡 Mrkt: 2025-07-20T22:15:07.022012Z
+            🟣 Portals: 2025-07-20T23:59:44.948944Z
+
+        ---------------------------------------------------------------
+        
+
+        🏷️ Name: Bow Tie
+
+        📉Floor Prices:
+            🟡 Mrkt: 2.99
+            🟣 Portals: 3.18
+
+        💰Max Instant Sell:
+            🟡 Mrkt: 2.85
+            🟣 Portals: 3.03
+
+        📅Created At:
+            🟡 Mrkt: 2025-07-20T22:12:38.389449Z
+            🟣 Portals: 2025-07-20T23:56:38.459405Z
+
+        ---------------------------------------------------------------
+        
+
+        🏷️ Name: Bunny Muffin
+
+        📉Floor Prices:
+            🟡 Mrkt: 2.95
+            🟣 Portals: 2.98
+
+        💰Max Instant Sell:
+            🟡 Mrkt: 2.77
+            🟣 Portals: 2.92
+
+        📅Created At:
+            🟡 Mrkt: 2025-07-20T20:37:52.684277Z
+            🟣 Portals: 2025-07-20T23:46:07.406898Z
+
+        ---------------------------------------------------------------
+        
+
+        🏷️ Name: Candy Cane
+
+        📉Floor Prices:
+            🟡 Mrkt: 1.47
+            🟣 Portals: 1.46
+
+        💰Max Instant Sell:
+            🟡 Mrkt: 1.46
+            🟣 Portals: 1.45
+
+        📅Created At:
+            🟡 Mrkt: 2025-07-20T23:59:20.997961Z
+            🟣 Portals: 2025-07-20T23:04:09.652768Z
+
+        ---------------------------------------------------------------
+        
+
+        🏷️ Name: Cookie Heart
+
+        📉Floor Prices:
+            🟡 Mrkt: 1.74
+            🟣 Portals: 1.89
+
+        💰Max Instant Sell:
+            🟡 Mrkt: 1.67
+            🟣 Portals: 1.75
+
+        📅Created At:
+            🟡 Mrkt: 2025-07-20T23:54:28.025632Z
+            🟣 Portals: 2025-07-20T23:19:23.671974Z
+
+        ---------------------------------------------------------------
+        
+
+        🏷️ Name: Crystal Ball
+
+        📉Floor Prices:
+            🟡 Mrkt: 5.7
+            🟣 Portals: 6.2
+
+        💰Max Instant Sell:
+            🟡 Mrkt: 5.4
+            🟣 Portals: 5.78
+
+        📅Created At:
+            🟡 Mrkt: 2025-07-20T16:24:18.374017Z
+            🟣 Portals: 2025-07-21T00:02:43.278067Z
+
+        ---------------------------------------------------------------
+        
+
+        🏷️ Name: Desk Calendar
+
+        📉Floor Prices:
+            🟡 Mrkt: 1.2
+            🟣 Portals: 1.25
+
+        💰Max Instant Sell:
+            🟡 Mrkt: 1.17
+            🟣 Portals: 1.24
+
+        📅Created At:
+            🟡 Mrkt: 2025-07-21T00:02:11.865827Z
+            🟣 Portals: 2025-07-20T23:35:32.398552Z
+
+        ---------------------------------------------------------------
+        
+
+        🏷️ Name: Diamond Ring
+
+        📉Floor Prices:
+            🟡 Mrkt: 13.87
+            🟣 Portals: 14.0
+
+        💰Max Instant Sell:
+            🟡 Mrkt: 13.55
+            🟣 Portals: 13.32
+
+        📅Created At:
+            🟡 Mrkt: 2025-07-20T23:09:46.321186Z
+            🟣 Portals: 2025-07-20T22:26:33.695775Z
+
+        ---------------------------------------------------------------
+        
+
+        🏷️ Name: Easter Egg
+
+        📉Floor Prices:
+            🟡 Mrkt: 2.5
+            🟣 Portals: 2.46
+
+        💰Max Instant Sell:
+            🟡 Mrkt: 2.43
+            🟣 Portals: 2.4
+
+        📅Created At:
+            🟡 Mrkt: 2025-07-20T18:46:32.767652Z
+            🟣 Portals: 2025-07-20T20:24:07.041206Z
+
+        ---------------------------------------------------------------
+        
+
+        🏷️ Name: Electric Skull
+
+        📉Floor Prices:
+            🟡 Mrkt: 23.3
+            🟣 Portals: 24.62
+
+        💰Max Instant Sell:
+            🟡 Mrkt: 20.2
+            🟣 Portals: 21.61
+
+        📅Created At:
+            🟡 Mrkt: 2025-07-20T20:53:11.170919Z
+            🟣 Portals: 2025-07-20T22:48:56.306935Z
+
+        ---------------------------------------------------------------
+        
+
+        🏷️ Name: Eternal Candle
+
+        📉Floor Prices:
+            🟡 Mrkt: 2.9
+            🟣 Portals: 2.88
+
+        💰Max Instant Sell:
+            🟡 Mrkt: 2.72
+            🟣 Portals: 2.82
+
+        📅Created At:
+            🟡 Mrkt: 2025-07-19T20:32:35.495269Z
+            🟣 Portals: 2025-07-20T20:42:18.077741Z
+
+        ---------------------------------------------------------------
+        
+
+        🏷️ Name: Eternal Rose
+
+        📉Floor Prices:
+            🟡 Mrkt: 10.65
+            🟣 Portals: 10.94
+
+        💰Max Instant Sell:
+            🟡 Mrkt: 10.4
+            🟣 Portals: 10.11
+
+        📅Created At:
+            🟡 Mrkt: 2025-07-19T13:15:54.810377Z
+            🟣 Portals: 2025-07-20T23:59:10.505520Z
+
+        ---------------------------------------------------------------
+        
+
+        🏷️ Name: Evil Eye
+
+        📉Floor Prices:
+            🟡 Mrkt: 4.1
+            🟣 Portals: 3.93
+
+        💰Max Instant Sell:
+            🟡 Mrkt: 3.91
+            🟣 Portals: 3.7
+
+        📅Created At:
+            🟡 Mrkt: 2025-07-20T15:33:51.971555Z
+            🟣 Portals: 2025-07-20T22:06:23.494133Z
+
+        ---------------------------------------------------------------
+        
+
+        🏷️ Name: Flying Broom
+
+        📉Floor Prices:
+            🟡 Mrkt: 6.09
+            🟣 Portals: 6.9
+
+        💰Max Instant Sell:
+            🟡 Mrkt: 5.85
+            🟣 Portals: 6.33
+
+        📅Created At:
+            🟡 Mrkt: 2025-07-20T23:00:08.137366Z
+            🟣 Portals: 2025-07-20T23:56:52.505601Z
+
+        ---------------------------------------------------------------
+        
+
+        🏷️ Name: Gem Signet
+
+        📉Floor Prices:
+            🟡 Mrkt: 62.19
+            🟣 Portals: 65.5
+
+        💰Max Instant Sell:
+            🟡 Mrkt: 58.0
+            🟣 Portals: 57.61
+
+        📅Created At:
+            🟡 Mrkt: 2025-07-20T23:41:12.293666Z
+            🟣 Portals: 2025-07-20T19:50:12.759930Z
+
+        ---------------------------------------------------------------
+        
+
+        🏷️ Name: Genie Lamp
+
+        📉Floor Prices:
+            🟡 Mrkt: 35.95
+            🟣 Portals: 37.75
+
+        💰Max Instant Sell:
+            🟡 Mrkt: 31.0
+            🟣 Portals: 32.59
+
+        📅Created At:
+            🟡 Mrkt: 2025-07-20T22:11:42.093972Z
+            🟣 Portals: 2025-07-20T19:48:27.406040Z
+
+        ---------------------------------------------------------------
+        
+
+        🏷️ Name: Ginger Cookie
+
+        📉Floor Prices:
+            🟡 Mrkt: 1.99
+            🟣 Portals: 1.76
+
+        💰Max Instant Sell:
+            🟡 Mrkt: 1.85
+            🟣 Portals: 1.67
+
+        📅Created At:
+            🟡 Mrkt: 2025-07-20T23:09:52.568190Z
+            🟣 Portals: 2025-07-20T23:17:38.226262Z
+
+        ---------------------------------------------------------------
+        
+
+        🏷️ Name: Hanging Star
+
+        📉Floor Prices:
+            🟡 Mrkt: 4.05
+            🟣 Portals: 3.99
+
+        💰Max Instant Sell:
+            🟡 Mrkt: 3.86
+            🟣 Portals: 3.7
+
+        📅Created At:
+            🟡 Mrkt: 2025-07-20T20:54:31.279928Z
+            🟣 Portals: 2025-07-20T23:53:52.761583Z
+
+        ---------------------------------------------------------------
+        
+
+        🏷️ Name: Heart Locket
+
+        📉Floor Prices:
+            🟡 Mrkt: 1075.0
+            🟣 Portals: 1080.0
+
+        💰Max Instant Sell:
+            🟡 Mrkt: 930.0
+            🟣 Portals: 989.0
+
+        📅Created At:
+            🟡 Mrkt: 2025-07-20T22:20:20.503919Z
+            🟣 Portals: 2025-07-20T09:21:50.885176Z
+
+        ---------------------------------------------------------------
+        
+
+        🏷️ Name: Heroic Helmet
+
+        📉Floor Prices:
+            🟡 Mrkt: 164.9
+            🟣 Portals: 176.9
+
+        💰Max Instant Sell:
+            🟡 Mrkt: 160.0
+            🟣 Portals: 160.01
+
+        📅Created At:
+            🟡 Mrkt: 2025-07-20T23:09:05.023399Z
+            🟣 Portals: 2025-07-20T21:44:40.353079Z
+
+        ---------------------------------------------------------------
+        
+
+        🏷️ Name: Hex Pot
+
+        📉Floor Prices:
+            🟡 Mrkt: 2.6
+            🟣 Portals: 2.79
+
+        💰Max Instant Sell:
+            🟡 Mrkt: 2.45
+            🟣 Portals: 2.61
+
+        📅Created At:
+            🟡 Mrkt: 2025-07-20T19:12:50.683673Z
+            🟣 Portals: 2025-07-21T00:03:14.499230Z
+
+        ---------------------------------------------------------------
+        
+
+        🏷️ Name: Holiday Drink
+
+        📉Floor Prices:
+            🟡 Mrkt: 1.99
+            🟣 Portals: 1.73
+
+        💰Max Instant Sell:
+            🟡 Mrkt: 1.7
+            🟣 Portals: 1.65
+
+        📅Created At:
+            🟡 Mrkt: 2025-07-20T23:15:29.092345Z
+            🟣 Portals: 2025-07-20T23:25:19.860344Z
+
+        ---------------------------------------------------------------
+        
+
+        🏷️ Name: Homemade Cake
+
+        📉Floor Prices:
+            🟡 Mrkt: 1.59
+            🟣 Portals: 1.47
+
+        💰Max Instant Sell:
+            🟡 Mrkt: 1.45
+            🟣 Portals: 1.38
+
+        📅Created At:
+            🟡 Mrkt: 2025-07-20T12:45:06.469087Z
+            🟣 Portals: 2025-07-20T22:45:03.947584Z
+
+        ---------------------------------------------------------------
+        
+
+        🏷️ Name: Hypno Lollipop
+
+        📉Floor Prices:
+            🟡 Mrkt: 1.91
+            🟣 Portals: 1.75
+
+        💰Max Instant Sell:
+            🟡 Mrkt: 1.76
+            🟣 Portals: 1.72
+
+        📅Created At:
+            🟡 Mrkt: 2025-07-20T17:29:39.743598Z
+            🟣 Portals: 2025-07-20T23:26:53.793714Z
+
+        ---------------------------------------------------------------
+        
+
+        🏷️ Name: Ion Gem
+
+        📉Floor Prices:
+            🟡 Mrkt: 67.99
+            🟣 Portals: 68.79
+
+        💰Max Instant Sell:
+            🟡 Mrkt: 63.0
+            🟣 Portals: 63.01
+
+        📅Created At:
+            🟡 Mrkt: 2025-07-20T23:43:45.624048Z
+            🟣 Portals: 2025-07-20T17:06:29.300154Z
+
+        ---------------------------------------------------------------
+        
+
+        🏷️ Name: Jelly Bunny
+
+        📉Floor Prices:
+            🟡 Mrkt: 3.09
+            🟣 Portals: 3.08
+
+        💰Max Instant Sell:
+            🟡 Mrkt: 2.86
+            🟣 Portals: 2.91
+
+        📅Created At:
+            🟡 Mrkt: 2025-07-19T20:35:52.849653Z
+            🟣 Portals: 2025-07-21T00:08:01.597430Z
+
+        ---------------------------------------------------------------
+        
+
+        🏷️ Name: Jester Hat
+
+        📉Floor Prices:
+            🟡 Mrkt: 1.9
+            🟣 Portals: 2.35
+
+        💰Max Instant Sell:
+            🟡 Mrkt: 1.73
+            🟣 Portals: 2.22
+
+        📅Created At:
+            🟡 Mrkt: 2025-07-20T23:08:57.815964Z
+            🟣 Portals: 2025-07-20T23:35:24.398564Z
+
+        ---------------------------------------------------------------
+        
+
+        🏷️ Name: Jingle Bells
+
+        📉Floor Prices:
+            🟡 Mrkt: 1.78
+            🟣 Portals: 1.7
+
+        💰Max Instant Sell:
+            🟡 Mrkt: 1.64
+            🟣 Portals: 1.56
+
+        📅Created At:
+            🟡 Mrkt: 2025-07-20T10:03:37.163825Z
+            🟣 Portals: 2025-07-21T00:08:14.941688Z
+
+        ---------------------------------------------------------------
+        
+
+        🏷️ Name: Kissed Frog
+
+        📉Floor Prices:
+            🟡 Mrkt: 29.0
+            🟣 Portals: 29.92
+
+        💰Max Instant Sell:
+            🟡 Mrkt: 26.1
+            🟣 Portals: 25.01
+
+        📅Created At:
+            🟡 Mrkt: 2025-07-20T15:05:19.390407Z
+            🟣 Portals: 2025-07-20T21:25:04.679824Z
+
+        ---------------------------------------------------------------
+        
+
+        🏷️ Name: Light Sword
+
+        📉Floor Prices:
+            🟡 Mrkt: 3.05
+            🟣 Portals: 3.07
+
+        💰Max Instant Sell:
+            🟡 Mrkt: 3.0
+            🟣 Portals: 2.94
+
+        📅Created At:
+            🟡 Mrkt: 2025-07-20T14:44:26.177935Z
+            🟣 Portals: 2025-07-20T23:34:32.123731Z
+
+        ---------------------------------------------------------------
+        
+
+        🏷️ Name: Lol Pop
+
+        📉Floor Prices:
+            🟡 Mrkt: 1.25
+            🟣 Portals: 1.27
+
+        💰Max Instant Sell:
+            🟡 Mrkt: 1.21
+            🟣 Portals: 1.24
+
+        📅Created At:
+            🟡 Mrkt: 2025-07-21T00:03:01.873546Z
+            🟣 Portals: 2025-07-20T22:40:10.773102Z
+
+        ---------------------------------------------------------------
+        
+
+        🏷️ Name: Loot Bag
+
+        📉Floor Prices:
+            🟡 Mrkt: 75.0
+            🟣 Portals: 77.0
+
+        💰Max Instant Sell:
+            🟡 Mrkt: 72.2
+            🟣 Portals: 73.0
+
+        📅Created At:
+            🟡 Mrkt: 2025-07-20T23:10:49.645385Z
+            🟣 Portals: 2025-07-20T18:20:05.196997Z
+
+        ---------------------------------------------------------------
+        
+
+        🏷️ Name: Love Candle
+
+        📉Floor Prices:
+            🟡 Mrkt: 7.15
+            🟣 Portals: 7.39
+
+        💰Max Instant Sell:
+            🟡 Mrkt: 6.6
+            🟣 Portals: 6.87
+
+        📅Created At:
+            🟡 Mrkt: 2025-07-20T20:55:13.518592Z
+            🟣 Portals: 2025-07-20T23:41:08.429522Z
+
+        ---------------------------------------------------------------
+        
+
+        🏷️ Name: Love Potion
+
+        📉Floor Prices:
+            🟡 Mrkt: 7.09
+            🟣 Portals: 7.3
+
+        💰Max Instant Sell:
+            🟡 Mrkt: 6.78
+            🟣 Portals: 6.8
+
+        📅Created At:
+            🟡 Mrkt: 2025-07-20T23:24:08.626590Z
+            🟣 Portals: 2025-07-19T07:43:28.883452Z
+
+        ---------------------------------------------------------------
+        
+
+        🏷️ Name: Lunar Snake
+
+        📉Floor Prices:
+            🟡 Mrkt: 1.4
+            🟣 Portals: 1.6
+
+        💰Max Instant Sell:
+            🟡 Mrkt: 1.33
+            🟣 Portals: 1.52
+
+        📅Created At:
+            🟡 Mrkt: 2025-07-20T17:26:25.766429Z
+            🟣 Portals: 2025-07-21T00:06:12.094804Z
+
+        ---------------------------------------------------------------
+        
+
+        🏷️ Name: Lush Bouquet
+
+        📉Floor Prices:
+            🟡 Mrkt: 2.52
+            🟣 Portals: 2.55
+
+        💰Max Instant Sell:
+            🟡 Mrkt: 2.5
+            🟣 Portals: 2.42
+
+        📅Created At:
+            🟡 Mrkt: 2025-07-20T13:38:38.972622Z
+            🟣 Portals: 2025-07-20T15:19:58.167855Z
+
+        ---------------------------------------------------------------
+        
+
+        🏷️ Name: Mad Pumpkin
+
+        📉Floor Prices:
+            🟡 Mrkt: 11.88
+            🟣 Portals: 11.73
+
+        💰Max Instant Sell:
+            🟡 Mrkt: 10.5
+            🟣 Portals: 11.0
+
+        📅Created At:
+            🟡 Mrkt: 2025-07-20T21:40:31.314137Z
+            🟣 Portals: 2025-07-20T23:45:39.675550Z
+
+        ---------------------------------------------------------------
+        
+
+        🏷️ Name: Magic Potion
+
+        📉Floor Prices:
+            🟡 Mrkt: 44.99
+            🟣 Portals: 47.43
+
+        💰Max Instant Sell:
+            🟡 Mrkt: 41.0
+            🟣 Portals: 38.12
+
+        📅Created At:
+            🟡 Mrkt: 2025-07-20T22:02:07.081963Z
+            🟣 Portals: 2025-07-21T00:07:20.249609Z
+
+        ---------------------------------------------------------------
+        
+
+        🏷️ Name: Mini Oscar
+
+        📉Floor Prices:
+            🟡 Mrkt: 68.99
+            🟣 Portals: 72.97
+
+        💰Max Instant Sell:
+            🟡 Mrkt: 58.0
+            🟣 Portals: 59.19
+
+        📅Created At:
+            🟡 Mrkt: 2025-07-20T23:39:20.848490Z
+            🟣 Portals: 2025-07-21T00:03:27.922338Z
+
+        ---------------------------------------------------------------
+        
+
+        🏷️ Name: Nail Bracelet
+
+        📉Floor Prices:
+            🟡 Mrkt: 105.79
+            🟣 Portals: 108.99
+
+        💰Max Instant Sell:
+            🟡 Mrkt: 102.0
+            🟣 Portals: 102.3
+
+        📅Created At:
+            🟡 Mrkt: 2025-07-20T18:55:17.048936Z
+            🟣 Portals: 2025-07-20T19:59:23.366267Z
+
+        ---------------------------------------------------------------
+        
+
+        🏷️ Name: Neko Helmet
+
+        📉Floor Prices:
+            🟡 Mrkt: 23.5
+            🟣 Portals: 23.97
+
+        💰Max Instant Sell:
+            🟡 Mrkt: 22.2
+            🟣 Portals: 21.76
+
+        📅Created At:
+            🟡 Mrkt: 2025-07-20T15:42:03.421129Z
+            🟣 Portals: 2025-07-21T00:00:27.557771Z
+
+        ---------------------------------------------------------------
+        
+
+        🏷️ Name: Party Sparkler
+
+        📉Floor Prices:
+            🟡 Mrkt: 1.87
+            🟣 Portals: 1.8
+
+        💰Max Instant Sell:
+            🟡 Mrkt: 1.73
+            🟣 Portals: 1.7
+
+        📅Created At:
+            🟡 Mrkt: 2025-07-20T23:22:03.203014Z
+            🟣 Portals: 2025-07-20T23:25:02.943690Z
+
+        ---------------------------------------------------------------
+        
+
+        🏷️ Name: Perfume Bottle
+
+        📉Floor Prices:
+            🟡 Mrkt: 67.0
+            🟣 Portals: 69.75
+
+        💰Max Instant Sell:
+            🟡 Mrkt: 62.0
+            🟣 Portals: 65.0
+
+        📅Created At:
+            🟡 Mrkt: 2025-07-20T23:38:41.043004Z
+            🟣 Portals: 2025-07-20T21:12:44.625336Z
+
+        ---------------------------------------------------------------
+        
+
+        🏷️ Name: Pet Snake
+
+        📉Floor Prices:
+            🟡 Mrkt: 1.68
+            🟣 Portals: 2.22
+
+        💰Max Instant Sell:
+            🟡 Mrkt: 1.51
+            🟣 Portals: 2.0
+
+        📅Created At:
+            🟡 Mrkt: 2025-07-20T23:43:09.728187Z
+            🟣 Portals: 2025-07-21T00:07:37.310680Z
+
+        ---------------------------------------------------------------
+        
+
+        🏷️ Name: Plush Pepe
+
+        📉Floor Prices:
+            🟡 Mrkt: 3199.0
+            🟣 Portals: 3337.97
+
+        💰Max Instant Sell:
+            🟡 Mrkt: 100.0
+            🟣 Portals: 2670.38
+
+        📅Created At:
+            🟡 Mrkt: 2025-07-17T21:59:09.888796Z
+            🟣 Portals: 2025-07-17T01:58:08.804081Z
+
+        ---------------------------------------------------------------
+        
+
+        🏷️ Name: Precious Peach
+
+        📉Floor Prices:
+            🟡 Mrkt: 306.0
+            🟣 Portals: 318.0
+
+        💰Max Instant Sell:
+            🟡 Mrkt: 285.0
+            🟣 Portals: 300.0
+
+        📅Created At:
+            🟡 Mrkt: 2025-07-20T21:09:43.373765Z
+            🟣 Portals: 2025-07-20T23:57:21.681254Z
+
+        ---------------------------------------------------------------
+        
+
+        🏷️ Name: Record Player
+
+        📉Floor Prices:
+            🟡 Mrkt: 6.68
+            🟣 Portals: 7.0
+
+        💰Max Instant Sell:
+            🟡 Mrkt: 6.2
+            🟣 Portals: 6.6
+
+        📅Created At:
+            🟡 Mrkt: 2025-07-20T22:56:05.512133Z
+            🟣 Portals: 2025-07-20T23:06:00.547273Z
+
+        ---------------------------------------------------------------
+        
+
+        🏷️ Name: Restless Jar
+
+        📉Floor Prices:
+            🟡 Mrkt: 2.58
+            🟣 Portals: 2.59
+
+        💰Max Instant Sell:
+            🟡 Mrkt: 2.5
+            🟣 Portals: 2.48
+
+        📅Created At:
+            🟡 Mrkt: 2025-07-17T05:12:26.351046Z
+            🟣 Portals: 2025-07-20T23:16:33.247831Z
+
+        ---------------------------------------------------------------
+        
+
+        🏷️ Name: Sakura Flower
+
+        📉Floor Prices:
+            🟡 Mrkt: 3.8
+            🟣 Portals: 4.0
+
+        💰Max Instant Sell:
+            🟡 Mrkt: 3.61
+            🟣 Portals: 3.9
+
+        📅Created At:
+            🟡 Mrkt: 2025-07-21T00:02:38.423359Z
+            🟣 Portals: 2025-07-20T23:06:17.604770Z
+
+        ---------------------------------------------------------------
+        
+
+        🏷️ Name: Santa Hat
+
+        📉Floor Prices:
+            🟡 Mrkt: 1.94
+            🟣 Portals: 1.79
+
+        💰Max Instant Sell:
+            🟡 Mrkt: 1.81
+            🟣 Portals: 1.76
+
+        📅Created At:
+            🟡 Mrkt: 2025-07-20T23:17:56.295036Z
+            🟣 Portals: 2025-07-20T22:40:39.549471Z
+
+        ---------------------------------------------------------------
+        
+
+        🏷️ Name: Scared Cat
+
+        📉Floor Prices:
+            🟡 Mrkt: 37.5
+            🟣 Portals: 37.0
+
+        💰Max Instant Sell:
+            🟡 Mrkt: 34.3
+            🟣 Portals: 31.1
+
+        📅Created At:
+            🟡 Mrkt: 2025-07-20T21:38:31.251035Z
+            🟣 Portals: 2025-07-20T22:54:31.639576Z
+
+        ---------------------------------------------------------------
+        
+
+        🏷️ Name: Sharp Tongue
+
+        📉Floor Prices:
+            🟡 Mrkt: 27.89
+            🟣 Portals: 28.38
+
+        💰Max Instant Sell:
+            🟡 Mrkt: 25.4
+            🟣 Portals: 27.8
+
+        📅Created At:
+            🟡 Mrkt: 2025-07-20T22:06:08.924743Z
+            🟣 Portals: 2025-07-20T23:30:02.072437Z
+
+        ---------------------------------------------------------------
+        
+
+        🏷️ Name: Signet Ring
+
+        📉Floor Prices:
+            🟡 Mrkt: 20.45
+            🟣 Portals: 20.97
+
+        💰Max Instant Sell:
+            🟡 Mrkt: 19.2
+            🟣 Portals: 19.06
+
+        📅Created At:
+            🟡 Mrkt: 2025-07-20T23:37:10.816627Z
+            🟣 Portals: 2025-07-21T00:07:44.153141Z
+
+        ---------------------------------------------------------------
+        
+
+        🏷️ Name: Skull Flower
+
+        📉Floor Prices:
+            🟡 Mrkt: 6.1
+            🟣 Portals: 6.89
+
+        💰Max Instant Sell:
+            🟡 Mrkt: 5.0
+            🟣 Portals: 6.29
+
+        📅Created At:
+            🟡 Mrkt: 2025-07-20T11:58:28.865231Z
+            🟣 Portals: 2025-07-21T00:02:02.056875Z
+
+        ---------------------------------------------------------------
+        
+
+        🏷️ Name: Sleigh Bell
+
+        📉Floor Prices:
+            🟡 Mrkt: 6.2
+            🟣 Portals: 5.87
+
+        💰Max Instant Sell:
+            🟡 Mrkt: 5.15
+            🟣 Portals: 5.44
+
+        📅Created At:
+            🟡 Mrkt: 2025-07-20T21:58:14.819559Z
+            🟣 Portals: 2025-07-20T23:48:08.375143Z
+
+        ---------------------------------------------------------------
+        
+
+        🏷️ Name: Snake Box
+
+        📉Floor Prices:
+            🟡 Mrkt: 1.46
+            🟣 Portals: 1.45
+
+        💰Max Instant Sell:
+            🟡 Mrkt: 1.45
+            🟣 Portals: 1.37
+
+        📅Created At:
+            🟡 Mrkt: 2025-07-21T00:03:12.063229Z
+            🟣 Portals: 2025-07-21T00:08:03.787113Z
+
+        ---------------------------------------------------------------
+        
+
+        🏷️ Name: Snow Globe
+
+        📉Floor Prices:
+            🟡 Mrkt: 2.55
+            🟣 Portals: 2.55
+
+        💰Max Instant Sell:
+            🟡 Mrkt: 2.43
+            🟣 Portals: 2.39
+
+        📅Created At:
+            🟡 Mrkt: 2025-07-19T16:27:12.282998Z
+            🟣 Portals: 2025-07-20T23:49:04.937073Z
+
+        ---------------------------------------------------------------
+        
+
+        🏷️ Name: Snow Mittens
+
+        📉Floor Prices:
+            🟡 Mrkt: 2.79
+            🟣 Portals: 2.6
+
+        💰Max Instant Sell:
+            🟡 Mrkt: 2.65
+            🟣 Portals: 2.53
+
+        📅Created At:
+            🟡 Mrkt: 2025-07-19T15:13:09.220535Z
+            🟣 Portals: 2025-07-20T23:46:19.169629Z
+
+        ---------------------------------------------------------------
+        
+
+        🏷️ Name: Spiced Wine
+
+        📉Floor Prices:
+            🟡 Mrkt: 2.26
+            🟣 Portals: 2.4
+
+        💰Max Instant Sell:
+            🟡 Mrkt: 2.16
+            🟣 Portals: 2.25
+
+        📅Created At:
+            🟡 Mrkt: 2025-07-20T23:19:33.478929Z
+            🟣 Portals: 2025-07-20T20:42:19.237410Z
+
+        ---------------------------------------------------------------
+        
+
+        🏷️ Name: Spy Agaric
+
+        📉Floor Prices:
+            🟡 Mrkt: 2.82
+            🟣 Portals: 3.0
+
+        💰Max Instant Sell:
+            🟡 Mrkt: 2.72
+            🟣 Portals: 2.82
+
+        📅Created At:
+            🟡 Mrkt: 2025-07-19T20:15:57.077056Z
+            🟣 Portals: 2025-07-20T23:43:12.885329Z
+
+        ---------------------------------------------------------------
+        
+
+        🏷️ Name: Star Notepad
+
+        📉Floor Prices:
+            🟡 Mrkt: 2.29
+            🟣 Portals: 2.28
+
+        💰Max Instant Sell:
+            🟡 Mrkt: 2.23
+            🟣 Portals: 2.13
+
+        📅Created At:
+            🟡 Mrkt: 2025-07-20T20:01:48.084690Z
+            🟣 Portals: 2025-07-20T23:27:39.188214Z
+
+        ---------------------------------------------------------------
+        
+
+        🏷️ Name: Swiss Watch
+
+        📉Floor Prices:
+            🟡 Mrkt: 31.5
+            🟣 Portals: 31.79
+
+        💰Max Instant Sell:
+            🟡 Mrkt: 29.0
+            🟣 Portals: 30.02
+
+        📅Created At:
+            🟡 Mrkt: 2025-07-20T15:30:40.771159Z
+            🟣 Portals: 2025-07-21T00:05:58.524037Z
+
+        ---------------------------------------------------------------
+        
+
+        🏷️ Name: Tama Gadget
+
+        📉Floor Prices:
+            🟡 Mrkt: 1.91
+            🟣 Portals: 1.79
+
+        💰Max Instant Sell:
+            🟡 Mrkt: 1.89
+            🟣 Portals: 1.72
+
+        📅Created At:
+            🟡 Mrkt: 2025-07-20T19:33:21.583150Z
+            🟣 Portals: 2025-07-20T23:55:22.218096Z
+
+        ---------------------------------------------------------------
+        
+
+        🏷️ Name: Top Hat
+
+        📉Floor Prices:
+            🟡 Mrkt: 7.8
+            🟣 Portals: 7.9
+
+        💰Max Instant Sell:
+            🟡 Mrkt: 7.24
+            🟣 Portals: 7.5
+
+        📅Created At:
+            🟡 Mrkt: 2025-07-20T15:21:50.329275Z
+            🟣 Portals: 2025-07-20T23:41:10.136228Z
+
+        ---------------------------------------------------------------
+        
+
+        🏷️ Name: Toy Bear
+
+        📉Floor Prices:
+            🟡 Mrkt: 17.0
+            🟣 Portals: 17.2
+
+        💰Max Instant Sell:
+            🟡 Mrkt: 16.58
+            🟣 Portals: 16.2
+
+        📅Created At:
+            🟡 Mrkt: 2025-07-20T23:49:38.799010Z
+            🟣 Portals: 2025-07-20T23:41:46.169958Z
+
+        ---------------------------------------------------------------
+        
+
+        🏷️ Name: Trapped Heart
+
+        📉Floor Prices:
+            🟡 Mrkt: 5.5
+            🟣 Portals: 5.68
+
+        💰Max Instant Sell:
+            🟡 Mrkt: 5.3
+            🟣 Portals: 5.21
+
+        📅Created At:
+            🟡 Mrkt: 2025-07-20T23:20:30.878290Z
+            🟣 Portals: 2025-07-20T23:42:46.265070Z
+
+        ---------------------------------------------------------------
+        
+
+        🏷️ Name: Vintage Cigar
+
+        📉Floor Prices:
+            🟡 Mrkt: 22.4
+            🟣 Portals: 24.5
+
+        💰Max Instant Sell:
+            🟡 Mrkt: 22.0
+            🟣 Portals: 22.81
+
+        📅Created At:
+            🟡 Mrkt: 2025-07-20T23:16:58.470851Z
+            🟣 Portals: 2025-07-20T23:43:03.178981Z
+
+        ---------------------------------------------------------------
+        
+
+        🏷️ Name: Voodoo Doll
+
+        📉Floor Prices:
+            🟡 Mrkt: 12.89
+            🟣 Portals: 14.0
+
+        💰Max Instant Sell:
+            🟡 Mrkt: 12.31
+            🟣 Portals: 13.2
+
+        📅Created At:
+            🟡 Mrkt: 2025-07-20T22:35:24.947482Z
+            🟣 Portals: 2025-07-20T23:42:05.449183Z
+
+        ---------------------------------------------------------------
+        
+
+        🏷️ Name: Winter Wreath
+
+        📉Floor Prices:
+            🟡 Mrkt: 1.7
+            🟣 Portals: 1.9
+
+        💰Max Instant Sell:
+            🟡 Mrkt: 1.5
+            🟣 Portals: 1.76
+
+        📅Created At:
+            🟡 Mrkt: 2025-07-20T11:12:22.464070Z
+            🟣 Portals: 2025-07-20T23:40:48.999082Z
+
+        ---------------------------------------------------------------
+        
+
+        🏷️ Name: Witch Hat
+
+        📉Floor Prices:
+            🟡 Mrkt: 2.99
+            🟣 Portals: 2.73
+
+        💰Max Instant Sell:
+            🟡 Mrkt: 2.9
+            🟣 Portals: 2.56
+
+        📅Created At:
+            🟡 Mrkt: 2025-07-19T20:46:47.448398Z
+            🟣 Portals: 2025-07-20T23:52:47.319309Z
+
+        ---------------------------------------------------------------
+        
+
+        🏷️ Name: Xmas Stocking
+
+        📉Floor Prices:
+            🟡 Mrkt: 1.47
+            🟣 Portals: 1.57
+
+        💰Max Instant Sell:
+            🟡 Mrkt: 1.38
+            🟣 Portals: 1.5
+
+        📅Created At:
+            🟡 Mrkt: 2025-07-20T23:16:05.207873Z
+            🟣 Portals: 2025-07-20T23:03:49.589635Z
+
+        ---------------------------------------------------------------
+        

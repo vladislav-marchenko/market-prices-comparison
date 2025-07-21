@@ -23,20 +23,23 @@ with open('mrkt_data.json', 'r') as mrkt, \
         mrkt_instant_sell_created_at = mrkt_instant_sell['createdAt']
         portals_instant_sell_created_at = portals_instant_sell['created_at']
 
-        print(f'''
-        🏷️ Name: {mrkt_collection['name']}
+        fee = 0.1
 
-        📉Floor Prices:
-            🟡 Mrkt: {mrkt_floor}
-            🟣 Portals: {portals_floor}
+        if portals_instant_sell_price - mrkt_floor - fee > 0.1:
+            print(f'''
+            🏷️ Name: {mrkt_collection['name']}
 
-        💰Max Instant Sell:
-            🟡 Mrkt: {mrkt_instant_sell_price}
-            🟣 Portals: {portals_instant_sell_price}
+            📉Floor Prices:
+                🟡 Mrkt: {mrkt_floor}
+                🟣 Portals: {portals_floor}
 
-        📅Created At:
-            🟡 Mrkt: {mrkt_instant_sell_created_at}
-            🟣 Portals: {portals_instant_sell_created_at}
+            💰Max Instant Sell:
+                🟡 Mrkt: {mrkt_instant_sell_price}
+                🟣 Portals: {portals_instant_sell_price}
 
-        ---------------------------------------------------------------
-        ''')
+            📅Created At:
+                🟡 Mrkt: {mrkt_instant_sell_created_at}
+                🟣 Portals: {portals_instant_sell_created_at}
+
+            ---------------------------------------------------------------
+            ''')
